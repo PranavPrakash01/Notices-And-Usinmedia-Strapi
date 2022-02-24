@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "scrapers",
+  "info": {
+    "singularName": "scraper",
+    "pluralName": "scrapers",
+    "displayName": "scraper"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
